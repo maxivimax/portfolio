@@ -1,3 +1,5 @@
+# So interesting
+
 one = "INSERT INTO patricipation(id, user_id, event_id, datetime) VALUES ("
 two = ", '125', '"
 three = "', '2023-03-03 "
